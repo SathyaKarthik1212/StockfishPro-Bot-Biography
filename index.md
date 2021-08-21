@@ -1,4 +1,4 @@
-## Welcome to the biography of StockfishPro-BOT
+## Welcome To The Biography Of StockfishPro-BOT
 
 [StockfishPro-BOT](https://lichess.org/@/StockfishPro-BOT) is a bot made by [ChessGreatPlayer](https://lichess.org/@/ChessGreatPlayer) and uses [Stockfish 14 dev Chess Engine](http://abrok.eu/stockfish/latest/linux/stockfish_x64_modern.zip).
 You can challenge it whenever you want, as it is 24/7 Online.

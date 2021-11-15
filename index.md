@@ -1,7 +1,9 @@
 ## Welcome To The Biography Of StockfishPro-BOT
+## StockfishPro-Bot -- Stockfish14 + PC
 
-[StockfishPro-BOT](https://lichess.org/@/StockfishPro-BOT) is a bot made by [ChessGreatPlayer](https://lichess.org/@/ChessGreatPlayer) and uses [Stockfish 14 dev Chess Engine](http://abrok.eu/stockfish/latest/linux/stockfish_x64_modern.zip).
-You can challenge it whenever you want, as it is 24/7 Online.
-It uses many Computer Languages like C++ , Java , Python , Makefile , C , Shell and Dockerfile
-It runs on Heroku server.
-And u can contact [ChessGreatPlayer](https://lichess.org/inbox/ChessGreatPlayer) or [StockfishPro-BOT](https://lichess.org/inbox/StockfishPro-BOT) for any help to make a bot.
+About -- 
+Engine: StockFish 14.1 - stockfishchess.org/download/
+Owner: @ChessGreatPlayer
+Team- bit.ly/ACC-Chess-Club
+Running On Local PC
+Code: https://github.com/SathyaKarthik1212/Official-Repo-Of-StockfishProBot
